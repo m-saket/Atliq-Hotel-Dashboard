@@ -55,13 +55,13 @@ Worked with five core datasets:
 
 ### Mobile View
 
-<p align="center">
-    <img src='Images/mobile_1.jpg' height=420">
-</p>
-
-<p align="center">
-    <img src='Images/mobile_2.jpg' height=400">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="Images/mobile_1.jpg" height="420"></td>
+    <td style="width: 40px;"></td> <!-- spacer column -->
+    <td><img src="Images/mobile_2.jpg" height="420"></td>
+  </tr>
+</table>
 
 ## 🔍 Key Business Insights
 1. **Lack of Dynamic Pricing**: ADR is constant across peak and off-peak periods, revealing missed revenue opportunities.
