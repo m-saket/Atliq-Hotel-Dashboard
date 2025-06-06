@@ -17,7 +17,7 @@ Analyze hotel bookings, room capacity, and guest behavior to build a powerful da
 - **DAX (Data Analysis Expressions)**: To compute custom measures like RevPAR, Realization
 - **Power Query**: Data transformation layer
 - **Excel/CSV**: Raw data source format
-- 
+
 ## 📂 Datasets
 Worked with five core datasets:
 
