@@ -27,6 +27,11 @@ Worked with five core datasets:
 | `fact_aggregated_bookings.csv` | Aggregated room-level data including availability and booking volume        |
 | `fact_bookings.csv`       | Customer-level booking data with status, platform, revenue and rating info |
 
+## Data Model 
+<p align="center">
+    <img src='https://github.com/m-saket/Atliq-Hotel-Dashboard/blob/main/images/Model_view.png' height="400">
+</p>
+
 ## 📊 Dashboard Highlights
 - 📈 **KPI Cards**: RevPAR, ADR, Occupancy, Realization
 - 🗓️ **Monthly & Weekly Trends**: Booking patterns over May, June, and July
