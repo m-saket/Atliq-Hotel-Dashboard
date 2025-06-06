@@ -1,7 +1,7 @@
 # Atliq-Hotel-Dashboard
 A comprehensive Power BI dashboard developed for AtliQ Grands, a fictional luxury hotel chain operating across major Indian cities. The project aims to analyze booking patterns, revenue streams, and occupancy metrics to provide actionable insights for strategic decision-making.
 
-Link to [Interactive Dashboard]([https://www.novypro.com/project/-codebasics-september-month-resume-challenge](https://app.powerbi.com/links/b28iJchmvG?ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c&pbi_source=linkShare))
+Link to [Interactive Dashboard](https://app.powerbi.com/links/b28iJchmvG?ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c&pbi_source=linkShare)
 
 ## Project Overview
 AtliQ Grands is a renowned five-star hotel chain with properties in Mumbai, Delhi, Bangalore, and Hyderabad. Despite its premium offerings, the chain has been experiencing a decline in revenue and market share due to increased competition and static pricing strategies.
