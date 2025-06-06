@@ -28,8 +28,9 @@ Worked with five core datasets:
 | `fact_bookings.csv`       | Customer-level booking data with status, platform, revenue and rating info |
 
 ## Data Model 
+
 <p align="center">
-    <img src='https://github.com/m-saket/Atliq-Hotel-Dashboard/blob/main/images/Model_view.png' height="400">
+    <img src='Images/Model_view.png' height="400">
 </p>
 
 ## 📊 Dashboard Highlights
@@ -40,9 +41,29 @@ Worked with five core datasets:
 - 🛏️ **Room Category Analysis**: Performance across Standard, Elite, Premium, Presidential
 - 📱 **Mobile Layout**: Optimized version for quick viewing on handheld devices
 
+### Desktop View
+
+<p align="center">
+    <img src='Images/dashboard_1.png' height=600">
+</p>
+
+<p align="center">
+    <img src='Images/dashboard_2.png' height=600">
+</p>
+
+### Mobile View
+
+<p align="center">
+    <img src='Images/mobile_1.jpg' height=420">
+</p>
+
+<p align="center">
+    <img src='Images/mobile_2.jpg' height=400">
+</p>
+
 ## 🔍 Key Business Insights
 1. **Lack of Dynamic Pricing**: ADR is constant across peak and off-peak periods, revealing missed revenue opportunities.
 2. **Underutilization of Weekend Strategy**: Day-type analysis shows negligible pricing difference between weekdays and weekends.
 3. **Platform Pricing Gaps**: Own website shows highest ADR but lower volume due to underpromotion and no differential strategy.
-4. **Presidential Rooms Lagging**: Low realization for high-end rooms suggests need for bundled deals or targeted offers.
-5. **Realization Trends**: Low realization from certain platforms points to no-shows or cancellations – a case for better channel management.
+5. **Presidential Rooms Lagging**: Low realization for high-end rooms suggests need for bundled deals or targeted offers.
+6. **Realization Trends**: Low realization from certain platforms points to no-shows or cancellations – a case for better channel management.
